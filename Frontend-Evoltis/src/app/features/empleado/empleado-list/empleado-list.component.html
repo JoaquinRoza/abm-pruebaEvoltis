@@ -1,0 +1,61 @@
+<div style="margin: 1rem;">
+<p-button label="Agregar" icon="pi pi-plus" (click)="showOrCloseDialog(true)" class="p-button-success"></p-button>
+</div>
+<div style="margin-top: 1rem;">
+  <p-table
+    [value]="(empleados$ | async) ?? []"
+    [paginator]="true"
+    [rows]="10"
+    [filters]="filters"
+    [responsive]="true"
+    [currentPageReportTemplate]="'Mostrando {first} a {last} de {totalRecords} empleados'"
+  >
+    <ng-template pTemplate="header">
+      <tr>
+        <th pSortableColumn="id">
+          Id
+          <p-columnFilter field="id" [matchMode]="'contains'"></p-columnFilter>
+        </th>
+        <th pSortableColumn="nombre">
+          Nombre
+          <p-columnFilter field="nombre" [matchMode]="'contains'"></p-columnFilter>
+        </th>
+        <th pSortableColumn="apellido">
+          Apellido
+          <p-columnFilter field="apellido" [matchMode]="'contains'"></p-columnFilter>
+        </th>
+        <th pSortableColumn="puesto">
+          Puesto
+          <p-columnFilter field="puesto" [matchMode]="'contains'"></p-columnFilter>
+        </th>
+        <th pSortableColumn="edad">
+          Edad
+          <p-columnFilter field="edad" [matchMode]="'contains'"></p-columnFilter>
+        </th>
+        <th style="width: 150px;">Acciones</th>
+      </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-emp>
+      <tr>
+        <td>{{ emp.id }}</td>
+        <td>{{ emp.nombre }}</td>
+        <td>{{ emp.apellido }}</td>
+        <td>{{ emp.puesto }}</td>
+        <td>{{ emp.edad }}</td>
+        <td>
+          <div style="display: flex; gap: 8px; justify-content: center;">
+            <button style="background-color: rgb(80, 151, 199);" (click)="editEmpleado(emp)">Editar</button>
+            <button style="background-color: rgb(197, 78, 78);"  (click)="onDelete(emp.id)">Eliminar</button>
+          </div>
+        </td>
+      </tr>
+    </ng-template>
+  </p-table>
+</div>
+
+<p-dialog header="Agregar/Editar Empleado" [(visible)]="display" [modal]="true" [closable]="false">
+  <app-empleado-form
+    [empleadoEditar]="empleadoEditar"
+    (cancel)="showOrCloseDialog($event)">
+  </app-empleado-form>
+</p-dialog>

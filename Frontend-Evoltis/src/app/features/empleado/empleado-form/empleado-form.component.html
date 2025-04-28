@@ -1,0 +1,61 @@
+<form [formGroup]="empleadoForm" (ngSubmit)="onSubmit()">
+    <div style="margin-bottom: 3px;">
+      <label for="nombre">Nombre: </label>
+      <input id="nombre" pInputText formControlName="nombre"/>
+      <div *ngIf="empleadoForm.get('nombre')?.touched && empleadoForm.get('nombre')?.hasError('required')" style="color: red;">
+        El nombre es obligatorio.
+      </div>
+      <div *ngIf="empleadoForm.get('nombre')?.touched && empleadoForm.get('nombre')?.hasError('maxLength')" style="color: red;">
+        El nombre no puede tener más de 50 caracteres.
+      </div>
+    </div>
+  
+    <div style="margin-bottom: 3px;">
+      <label for="apellido">Apellido: </label>
+      <input id="apellido" pInputText formControlName="apellido"/>
+      <div *ngIf="empleadoForm.get('apellido')?.touched && empleadoForm.get('apellido')?.hasError('required')" style="color: red;">
+        El apellido es obligatorio.
+      </div>
+      <div *ngIf="empleadoForm.get('apellido')?.touched && empleadoForm.get('apellido')?.hasError('maxLength')" style="color: red;">
+        El apellido no puede tener más de 50 caracteres.
+      </div>
+    </div>
+  
+    <div style="margin-bottom: 3px;">
+      <label for="puesto">Puesto: </label>
+      <input id="puesto" pInputText formControlName="puesto"/>
+      <div *ngIf="empleadoForm.get('puesto')?.touched && empleadoForm.get('puesto')?.hasError('required')" style="color: red;">
+        El puesto es obligatorio.
+      </div>
+      <div *ngIf="empleadoForm.get('puesto')?.touched && empleadoForm.get('puesto')?.hasError('maxLength')" style="color: red;">
+        El puesto no puede tener más de 50 caracteres.
+      </div>
+    </div>
+  
+    <div style="margin-bottom: 3px;">
+      <label for="edad">Edad: </label>
+      <input id="edad" pInputText formControlName="edad" type="number"/>
+      <div *ngIf="empleadoForm.get('edad')?.touched && empleadoForm.get('edad')?.hasError('required')" style="color: red;">
+        La edad es obligatoria.
+      </div>
+      <div *ngIf="empleadoForm.get('edad')?.touched && empleadoForm.get('edad')?.hasError('min')" style="color: red;">
+        La edad debe ser mayor a 18 años.
+      </div>
+    </div>
+  
+    <div style="margin-top: 1rem; display: flex; justify-content: center;">
+      <p-button
+        type="submit"
+        label="Guardar"
+        [disabled]="empleadoForm.invalid"
+        [styleClass]="'p-button-success w-full'">
+      </p-button>
+  
+      <p-button
+        type="button"
+        label="Cancelar"
+        (click)="closeDialog()"
+        [styleClass]="'p-button-secondary w-full'">
+      </p-button>
+    </div>
+  </form>
