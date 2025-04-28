@@ -1,0 +1,5 @@
+/Frontend-Evoltis/node_modules/
+/Frontend-Evoltis/dist/
+
+/Backend-Evoltis/bin/
+/Backend-Evoltis/obj/

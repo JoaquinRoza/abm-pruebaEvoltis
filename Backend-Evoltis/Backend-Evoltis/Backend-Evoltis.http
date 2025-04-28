@@ -1,0 +1,6 @@
+@Backend_Evoltis_HostAddress = http://localhost:5227
+
+GET {{Backend_Evoltis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

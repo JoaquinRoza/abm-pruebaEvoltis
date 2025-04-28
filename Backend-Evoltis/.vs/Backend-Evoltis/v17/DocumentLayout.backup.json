@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\infraestructure\\persistences\\configurations\\empleadoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\infraestructure\\persistences\\configurations\\empleadoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\infraestructure\\persistences\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\infraestructure\\persistences\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\application\\service\\interface\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\application\\service\\interface\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\application\\service\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\application\\service\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\domain\\interface\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\domain\\interface\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\mappers\\empleadoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\mappers\\empleadoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\validators\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\validators\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|c:\\users\\joaco\\source\\repos\\abm-pruebaevoltis\\backend-evoltis\\backend-evoltis\\infraestructure\\persistences\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDCBE50-2296-4B5E-8078-E5ABB43053FD}|Backend-Evoltis\\Backend-Evoltis.csproj|solutionrelative:backend-evoltis\\infraestructure\\persistences\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\Configurations\\EmpleadoConfiguration.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Infraestructure\\Persistences\\Configurations\\EmpleadoConfiguration.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\Configurations\\EmpleadoConfiguration.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Infraestructure\\Persistences\\Configurations\\EmpleadoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:02:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:30:01.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Domain\\Interface\\IEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Domain\\Interface\\IEmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Domain\\Interface\\IEmpleadoRepository.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Domain\\Interface\\IEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:26:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Infraestructure\\Persistences\\Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Infraestructure\\Persistences\\Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:25:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Application\\Service\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Application\\Service\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Application\\Service\\EmpleadoService.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Application\\Service\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:23:09.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Application\\Service\\Interface\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Application\\Service\\Interface\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Application\\Service\\Interface\\IEmpleadoService.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Application\\Service\\Interface\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:23:19.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Mappers\\EmpleadoProfile.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Mappers\\EmpleadoProfile.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Mappers\\EmpleadoProfile.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Mappers\\EmpleadoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:05:19.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Program.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Program.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Program.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:07:05.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\appsettings.json",
+              "RelativeToolTip": "Backend-Evoltis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T00:11:49.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Domain\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Domain\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Domain\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Domain\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:53:50.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpleadoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Validators\\EmpleadoValidator.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Validators\\EmpleadoValidator.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Validators\\EmpleadoValidator.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Validators\\EmpleadoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:07:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleadoDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\DTOs\\EmpleadoDto.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\DTOs\\EmpleadoDto.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\DTOs\\EmpleadoDto.cs",
+              "RelativeToolTip": "Backend-Evoltis\\DTOs\\EmpleadoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:04:33.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend-Evoltis\\Infraestructure\\Persistences\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joaco\\source\\repos\\abm-pruebaEvoltis\\Backend-Evoltis\\Backend-Evoltis\\Infraestructure\\Persistences\\AppDbContext.cs",
+              "RelativeToolTip": "Backend-Evoltis\\Infraestructure\\Persistences\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:01:52.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
